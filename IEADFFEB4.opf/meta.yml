@@ -1,0 +1,40 @@
+id: IEADFFEB4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:18:35.464861'
+last_modified: '2022-06-19T13:18:35.464878'
+parser: null
+source_metadata:
+  title: Hagiography of dPal ldan tshul khrims (1333–1399); Lamdre Lobshe, vol. ka,
+    title no. 19, from the chronological biographies of the Lamdre lineage masters
+  author: mus chen sems dpa chen po/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-19); converted from external file, unrevised, spell-checked, thematic
+    TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/371
+  bases:
+    b034:
+      title: Hagiography of dPal ldan tshul khrims (1333–1399); Lamdre Lobshe, vol.
+        ka, title no. 19, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: b034.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
